@@ -1,0 +1,20 @@
+{
+"employee-details":[
+{
+"empno":"8",
+"empname":"Helen",
+"salary":"38000",
+"designation":"Jr Programmer",
+"department":"computer"
+},
+
+{
+"empno":"9",
+"empname":"Ian",
+"salary":"27000",
+"designation":"Technical Support",
+"department":"Support & Services"
+}
+]
+
+}
